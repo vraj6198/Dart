@@ -31,6 +31,7 @@ String message = "my name is " + name;  */
   int l = 20;
   int b = 10;
   print("the sum of l and b is  ${l+b}");
+  print("the value of l + $l"); // bad impression 
    print("the sum of $l and $b is  ${l+b}");
   print("the area of the rectangle is ${l*b}");
 }
