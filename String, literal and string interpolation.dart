@@ -9,7 +9,7 @@ void main(){
   //various way to define string literal in dart
   String s1 = 'single';
   String s2 = "double";
-  String s3 = 'It\'s easy';		// here we have use escap character  so we use backslash now it read 																				full stmt
+  String s3 = 'It\'s easy';		// here we have use escap character  so we use backslash now it read full stmt
   String s4 = "It's easy";   // here we have use double slash and it read full stmt
   
   // large statment (we don't have to use + sign to add two stmt)
