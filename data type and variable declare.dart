@@ -5,8 +5,10 @@ void main(){
     double hexvalue= 0xEEAABBCCDD;
     double expo = 1.22e45;
     bool isvalid = true;
+    var number = 10;
     
     print(age);
+    print(number.runtimeType); // this will show datatype of the variable
     print(name);
     print(percentage);
     print(hevalue);
