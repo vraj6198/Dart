@@ -3,6 +3,8 @@
 The Dart language has special support for the following types:
 
 numbers
+ -> int 
+ -> double   
 strings
 booleans
 lists (also known as arrays)
