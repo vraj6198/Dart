@@ -7,7 +7,7 @@ const PI = 3.14;
 ->  const variable is implicitly final but it is a compile time constant
     -> i.e. it is initialized during compilation time
  -> instance variable can be final but cannot be const.
- -> if you a constant at class level then make it static const
+ -> if you a constant at class level then make it static const (You have to use static keyword)
 void main(){
   
   	// final keyword
