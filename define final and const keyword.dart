@@ -13,11 +13,13 @@ void main(){
   	// final keyword
   
   final cityname = 'vadodara';
+  final String nickname = 'Bobby';
   // cityname = 'vadodara'; we cannot assign again cityname
    final String countryname = 'India';
  	
   print(cityname);
   print(countryname);
+  print(nickname);
   
   // const keyword
   
