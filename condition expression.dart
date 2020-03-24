@@ -23,5 +23,5 @@ void main(){
   
   String name = "peter";
   String toprint = name ?? "guest user";
-  print(toprint);
+  print(toprint);  // o/p :- peter
 }
